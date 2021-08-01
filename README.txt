@@ -4,17 +4,17 @@
 
 ## Capstone project proposal exploratory analysis and graphical asset generation (coded in R)
 
-`https://github.com/bjo/TDI_coding_challenge/blob/master/Analysis/Notebooks/TDI_capstone_BRFSS_CSPP_preprocessing.ipynb`
-`https://github.com/bjo/TDI_coding_challenge/blob/master/Analysis/Notebooks/TDI_capstone_BRFSS_CSPP_part1.ipynb`
-`https://github.com/bjo/TDI_coding_challenge/blob/master/Analysis/Notebooks/TDI_capstone_BRFSS_CSPP_part2.ipynb`
+https://github.com/bjo/TDI_coding_challenge/blob/master/Analysis/Notebooks/TDI_capstone_BRFSS_CSPP_preprocessing.ipynb
+https://github.com/bjo/TDI_coding_challenge/blob/master/Analysis/Notebooks/TDI_capstone_BRFSS_CSPP_part1.ipynb
+https://github.com/bjo/TDI_coding_challenge/blob/master/Analysis/Notebooks/TDI_capstone_BRFSS_CSPP_part2.ipynb
 
 ## Data wrangling challenge (coded in R)
 
-`https://github.com/bjo/TDI_coding_challenge/blob/master/Analysis/Notebooks/TDI_capstone_BRFSS_CSPP_part1.ipynb`
+https://github.com/bjo/TDI_coding_challenge/blob/master/Analysis/Notebooks/TDI_capstone_BRFSS_CSPP_part1.ipynb
 
 ## Computer science challenge (coded in python)
 
-`https://github.com/bjo/TDI_coding_challenge/blob/master/Analysis/Notebooks/TDI_capstone_BRFSS_CSPP_part1.ipynb`
+https://github.com/bjo/TDI_coding_challenge/blob/master/Analysis/Notebooks/TDI_capstone_BRFSS_CSPP_part1.ipynb
 
 Data directory includes all the raw data files
 Table directory includes all the processed/generated data files
