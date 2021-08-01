@@ -35,9 +35,9 @@ mu_2 = mean((sub_tbl %>% filter(INCIDENT_TYPE_DESC == SMOKE))[['UNITS_ONSCENE']]
 mu_1 / mu_2
 
 # Q3 - false call in diff. boroughs
-sum(master_tbl$BOROUGH_DESC == BOROS[1])
-sum(master_tbl$BOROUGH_DESC == BOROS[5])
-sum(master_tbl$INCIDENT_TYPE_DESC == MALIC)
+# sum(master_tbl$BOROUGH_DESC == BOROS[1])
+# sum(master_tbl$BOROUGH_DESC == BOROS[5])
+# sum(master_tbl$INCIDENT_TYPE_DESC == MALIC)
 sub_tbl_5 = master_tbl %>% filter(BOROUGH_DESC == BOROS[5])
 prop_5 = sum(sub_tbl_5$INCIDENT_TYPE_DESC == MALIC) / nrow(sub_tbl_5)
 sub_tbl_1 = master_tbl %>% filter(BOROUGH_DESC == BOROS[1])
