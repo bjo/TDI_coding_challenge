@@ -10,11 +10,11 @@ https://github.com/bjo/TDI_coding_challenge/blob/master/Analysis/Notebooks/TDI_c
 
 ## Data wrangling challenge (coded in R)
 
-https://github.com/bjo/TDI_coding_challenge/blob/master/Analysis/Notebooks/TDI_capstone_BRFSS_CSPP_part1.ipynb
+https://github.com/bjo/TDI_coding_challenge/blob/master/Analysis/Notebooks/TDI_data_challenge.ipynb
 
 ## Computer science challenge (coded in python)
 
-https://github.com/bjo/TDI_coding_challenge/blob/master/Analysis/Notebooks/TDI_capstone_BRFSS_CSPP_part1.ipynb
+https://github.com/bjo/TDI_coding_challenge/blob/master/Analysis/Notebooks/TDI_CS_challenge.ipynb
 
 Data directory includes all the raw data files
 Table directory includes all the processed/generated data files
